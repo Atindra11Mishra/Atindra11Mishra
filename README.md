@@ -1,7 +1,5 @@
-Atindra11Mishra/Atindra11Mishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-This a watch store.
+This a watch store. 
+Maded with HTML and CSS.
 
 ![1](https://user-images.githubusercontent.com/81668822/189527738-dd842f3d-d1c9-4b83-a553-6bf9ef29fee8.jpeg)
 
