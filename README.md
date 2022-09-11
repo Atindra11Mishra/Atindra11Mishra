@@ -1,5 +1,5 @@
 This a watch store. 
-Maded with HTML and CSS.
+Designed with HTML and CSS.
 
 ![1](https://user-images.githubusercontent.com/81668822/189527738-dd842f3d-d1c9-4b83-a553-6bf9ef29fee8.jpeg)
 
